@@ -1,15 +1,9 @@
-# assignment
+# HDPE Pipes Design Implementation (gusswork_assignment)
 
-To install dependencies:
+Live preview available by running `npx serve -p 3000` or using a local live server.
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.3.4. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+## Features
+- Fully responsive HTML/CSS/JS implementation based on Figma design.
+- Zero dependencies (Vanilla JS + CSS).
+- Pixel-perfect layout with modern aesthetics.
+- Responsive mobile carousels and sticky headers.
